@@ -1,48 +1,42 @@
-# Hello World. 🌏
+# Hi there, Arm here 👋
 
-I am *Software Engineer* at <a href="https://bluebik.com/th/">Bluebik</a> 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="150">
 
+I am *Software Engineer* at <a href="https://www.ttbspark.com/">ttb spark</a>
 
+[![LinkedIn](https://img.shields.io/badge/-armmiigz-blue?style=lat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armmiigz)
+[![Gmail](https://img.shields.io/badge/sumet.singhasem@gmail.com-D14836?style=lat-square&logo=gmail&logoColor=white)](mailto:sumet.singhasem@gmail.com)
 
-## 💻 Tech Stack
+## ⚡ Technologies & Tools
 
-#### Languages
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-
-#### Frontend Framework
-![NuxtJS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-#### Backend Framework
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-#### Databases
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### IDEs
-![IntellijIDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-#### Other
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Jupiter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### 📫 Social
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armmiigz)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/armmiigz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumet-singhasem)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=lat-square&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=lat-square&logo=css3&logoColor=white)
+<img src="https://gitlab.com/armmiigz/armmiigz/-/raw/main/img/coding.png" height="150" align="right" />
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=lat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=lat-square&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=lat-square&logo=react&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=lat-square&logo=nextdotjs&logoColor=white)
+![Styled-Component](https://img.shields.io/badge/styled--components-DB7093?style=lat-square&logo=styled-components&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=lat-square&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=lat-square&logo=mui&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=lat-square&logo=prettier&logoColor=F7BA3E)
+![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=lat-square&logo=eslint&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=lat-square&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=lat-square&logo=npm&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=lat-square&logo=javascript&logoColor=F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=lat-square&logo=jquery&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=lat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=lat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/elastic%20cloud-005571?style=lat-square&logo=elasticcloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=lat-square&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=lat-square&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0747a6?style=lat-square&logo=bitbucket&logoColor=white)
+![MSTeam](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=lat-square&logo=microsoft-teams&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=lat-square&logo=Jira&logoColor=white)
+![k8s](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=lat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=lat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=lat-square&logo=Jenkins&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=lat-square&logo=Postman&logoColor=white)
 
 ### ☕ Donate
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K0BABEZ)
+<a href="https://www.buymeacoffee.com/armmiigz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
